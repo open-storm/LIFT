@@ -1,0 +1,20 @@
+C_NAME,C_TYPE,ACTION,U_NAME,U_TYPE,U_PARAM,MEASURE,FLOOD_EL,LOCATION,GROUP,DS_PARAM
+ORIFICE33@17312-17313,orifice,1,17311,link,0.684,volume,98,17311 -- CC Forebay,1,1
+PUMP44@5220-5219,pump,1,5220,storage,0.029,volume,84,5220 -- Freud Storm PS,1,1
+PUMP34@5010-5009,pump,1,5010,storage,0.097,volume,95,5010 -- CC PS to RTB,1,1
+PUMP33@5010-5005,pump,1,5010,storage,0.651,volume,95,5010 -- CC PS to DRI,2,1
+PUMP38@2909-5007,pump,1,2909,storage,0.419,volume,95,2909 -- CC RTB Dewatering,2,1
+VR-02,orifice,1,2912,link,1,volume,98,2912 --CC Forebay Reguator Gates,2,1
+PUMP13@1700-1695,pump,1,1700,storage,0.459,volume,96,1700 -- Fairview PS,3,1
+ISD002_DOWN,orifice,0,1509,link,1,volume,500,ISD002,4,1
+ISD003_DOWN,orifice,0,RC1954,link,1,volume,500,ISD003,4,1
+ISD004_DOWN,orifice,0,1520,link,1,volume,500,ISD004,4,1
+ISD005_DOWN,orifice,0,2020,link,1,volume,500,ISD005,5,1
+ISD006_DOWN,orifice,0,2150,link,1,volume,500,ISD006,6,1
+ISD007_DOWN,orifice,0,2180,link,1,volume,500,ISD007,6,1
+ISD008_DOWN,orifice,0,2190,link,1,volume,500,ISD008,6,1
+ISD009_DOWN,orifice,0,2198,link,1,volume,500,ISD009,6,1
+ISD010_DOWN,orifice,0,2220,link,1,volume,500,ISD010,6,1
+ISD011_DOWN,orifice,0,2750,link,1,volume,500,ISD011,7,1
+ISD012_DOWN,orifice,0,2525,link,1,volume,500,ISD012,7,1
+ISD013_DOWN,orifice,0,2360,link,1,volume,500,ISD013,7,1
